@@ -6,20 +6,7 @@ Deepfake technology uses artificial intelligence to manipulate images and videos
 ## 1.2 Motivation and Objective
 The goal is to create a system capable of distinguishing between real and fake images with high accuracy. This system will help detect manipulated content, ensuring the authenticity of images, preventing cybercrimes, and protecting individuals' privacy. The primary objective is to develop accurate models like CNNs and fine-tune them for deepfake detection.
 
-## 1.3 Team Members and Roles
-- **Goal**: Rodha Al Marzooqi
-- **Abstract**: Rukhiya Nafeesa Thayyil Kedaran
-- **Training Method**: Aysha Asif
-- **Data Preprocessing**: Nadeen Tarek
-- **Expected Outcome**: Pooja Meledath
-- **Coding**: 
-   - DensNet: Rukhiya Nafeesa Thayyil Kedaran
-   - VGGNet: Aysha Asif
-   - ResNet50: Nadeen Tarek
-   - Inception: Pooja Meledath & Ahmad Saad
-   - Customized CNN: Rodha Al Marzooqi
-
-## 1.4 Schedule and Milestones
+## 1.3 Schedule and Milestones
 - **Day 1-2**: Set goals, research datasets, and finalize metrics.
 - **Day 3-4**: Data preprocessing and augmentation.
 - **Day 5-7**: Implement VGG and VGGFace models, hyperparameter tuning.
